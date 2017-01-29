@@ -1,0 +1,6 @@
+brew 'tmux'
+
+brew 'git'
+
+brew 'stow'
+brew 'neovim/neovim/neovim'
